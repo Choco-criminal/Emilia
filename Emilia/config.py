@@ -20,7 +20,7 @@ class Config(object):
     UPDATE_CHANNEL = "Choco_for_u" # Update Channel Username
     START_PIC = "https://pic-bstarstatic.akamaized.net/ugc/9e98b6c8872450f3e8b19e0d0aca02deff02981f.jpg@1200w_630h_1e_1c_1f.webp" # Start Image
     DEV_USERS = [7512760579, 6940098429, 1266240012] # Dev Users
-    TOKEN = "7617090520:AAH6OqlzkAGlJUhtd6O3yd9sRfDo6lxwn00" # Bot Token from @BotFather
+    TOKEN = "7791039747:AAFhQdJJagRoL97zhGX-cvO2FP9r4YiqCQU" # Bot Token from @BotFather
 
     EVENT_LOGS = -1002122538649 # Event Logs Chat ID
     OWNER_ID = 1266240012 # Owner ID
